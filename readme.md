@@ -17,7 +17,7 @@
 Update your `.zshrc` file with the following two lines (order matters). Do not use the `antigen theme` function.
 
 ```sh
-antigen bundle sindresorhus/pure
+antigen bundle richohan/pure-9009
 ```
 
 ### Others
